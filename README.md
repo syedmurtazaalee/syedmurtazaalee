@@ -1,18 +1,18 @@
+# Hi there, Welcome to My GitHub Profile! 👋
 
-# Hey there, I'm so glad you're here! 
-
-Welcome to my little corner of GitHub!
-
-I'm passionate about learning new technologies, growing in my career, and building projects that solve real-world problems. This space is where I share my journey through coding, debugging, and continuous learning.
+I'm a beginner developer passionate about learning new technologies and improving my skills every day. This GitHub profile is where I share my projects, practice work, and learning journey in tech.
 
 Here you'll find:
-✨ Projects I'm building and contributing to
-📚 Things I'm learning along the way
-💡 Ideas, experiments, and problem-solving moments
-🚀 A little inspiration for anyone navigating the tech world
 
-Whether you're here to explore code, learn something new, or connect with a fellow developer — you're always welcome here.
+✨ Beginner-friendly projects
+📚 What I’m currently learning
+💡 Practice tasks and experiments
+🚀 Projects built using tools like Power BI, SQL, Excel, and more
 
-Let’s learn, build, and grow together — one repository at a time.
+I enjoy exploring data, creating dashboards, and solving problems through technology. Every project helps me learn something new and grow as a developer.
 
-You bring the curiosity, I’ll bring the code 😄
+This portfolio represents my progress, dedication, and continuous learning journey.
+
+Feel free to explore my repositories, check out my work, and connect with me.
+
+Let’s learn and grow together ... one project at a time 😄
