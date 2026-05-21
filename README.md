@@ -19,11 +19,16 @@ Feel free to explore my repositories, view my projects, and connect with me.
 
 Let’s turn data into insights ... one project at a time 🚀
 
-🌐Socials:
+🌐 Socials:
 -----------------------------------------------------------------------------------
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syedmurtazaalee)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmurtazaalee)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/syedmurtazaalee)
 
-🌐Socials:
+💻 Tech Stack:
 -----------------------------------------------------------------------------------
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
